@@ -49,7 +49,7 @@
 
 <br>
 
-### [Board page](https://github.com/k2520624/my-website/blob/master/community/fcuser/templates/login.html)
+### [Board page](https://github.com/k2520624/my-website/blob/master/community/board/templates/list.html)
 
 
 <img src="https://user-images.githubusercontent.com/75367132/216764222-290359f7-b3ac-472a-80e2-79c3a044ef82.png" width="500" height="300"><img src="https://user-images.githubusercontent.com/75367132/216764221-bf90937a-0c85-4713-9a25-e9d7fc5bf509.png" width="500" height="300">
