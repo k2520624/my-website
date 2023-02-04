@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/Language-Python-green?style=flat"/><img src="https://img.shields.io/badge/Framework-Django-blue?style=flat"/>
 
 
-### Main page
-### [소개](https://github.com/k2520624/my-website/blob/master/community/fcuser/templates/index.html)
+### [Main page](https://github.com/k2520624/my-website/blob/master/community/fcuser/templates/index.html)
+
 
 
 <img src="https://user-images.githubusercontent.com/75367132/216762056-894ef26f-5442-444b-b4dd-d9b8b338fec7.PNG" width="700" height="500"/>
@@ -30,7 +30,7 @@
 
 <br>
 
-### Sign up page
+### [Sign up page](https://github.com/k2520624/my-website/blob/master/community/fcuser/templates/resister.html)
 
 
 <img src="https://user-images.githubusercontent.com/75367132/216764226-aeb5cbf4-bb7e-489a-acc9-2dd28c7650bc.png" width="500" height="300"><img src="https://user-images.githubusercontent.com/75367132/216764225-19765978-4f07-4d41-87c1-dfab2ef80a6d.png" width="500" height="300">
@@ -40,7 +40,7 @@
 
 <br>
 
-### Log in page
+### [Log in page](https://github.com/k2520624/my-website/blob/master/community/fcuser/templates/login.html)
 
 
 <img src="https://user-images.githubusercontent.com/75367132/216764223-b0b30b50-6bb6-4647-ba47-8df53ad50753.png" width="700" height="500">
@@ -49,7 +49,7 @@
 
 <br>
 
-### Board page
+### [Board page](https://github.com/k2520624/my-website/blob/master/community/fcuser/templates/login.html)
 
 
 <img src="https://user-images.githubusercontent.com/75367132/216764222-290359f7-b3ac-472a-80e2-79c3a044ef82.png" width="500" height="300"><img src="https://user-images.githubusercontent.com/75367132/216764221-bf90937a-0c85-4713-9a25-e9d7fc5bf509.png" width="500" height="300">
