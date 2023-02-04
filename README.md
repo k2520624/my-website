@@ -15,9 +15,11 @@
   
 
 ## About Project
+<img src="https://img.shields.io/badge/Language-Python-green?style=flat"/><img src="https://img.shields.io/badge/Framework-Django-blue?style=flat"/>
 
 
 ### Main page
+### [소개](https://github.com/jhhong0509/study/blob/master/auth/oauth/01.introduction.md)
 
 
 <img src="https://user-images.githubusercontent.com/75367132/216762056-894ef26f-5442-444b-b4dd-d9b8b338fec7.PNG" width="700" height="500"/>
