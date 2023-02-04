@@ -16,9 +16,9 @@
 
 ## About Project
 
-### 웹 서버
+### Web
 
-<img src="https://img.shields.io/badge/Language-Python-green?style=flat"/><img src="https://img.shields.io/badge/Library-Opencv-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Language-Python-green?style=flat"/><img src="https://img.shields.io/badge/framework-Django-blue?style=flat"/>
 
 * opencv dnn 모듈을 이옹해 이미 학습된 모델 파일로 얼굴 검출
 
