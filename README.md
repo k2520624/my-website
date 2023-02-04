@@ -30,7 +30,7 @@
 
 <br>
 
-### [Sign up page](https://github.com/k2520624/my-website/blob/master/community/fcuser/templates/resister.html)
+### [Sign up page](https://github.com/k2520624/my-website/blob/master/community/fcuser/templates/register.html)
 
 
 <img src="https://user-images.githubusercontent.com/75367132/216764226-aeb5cbf4-bb7e-489a-acc9-2dd28c7650bc.png" width="500" height="300"><img src="https://user-images.githubusercontent.com/75367132/216764225-19765978-4f07-4d41-87c1-dfab2ef80a6d.png" width="500" height="300">
