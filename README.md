@@ -5,27 +5,18 @@
 ### Summary
 
 
-* 캠으로 얼굴 검출 후 눈 검출
+* python/django로 웹 구현
 
-* 눈 깜빡임 인식
+* 로그인, 회원가입, 게시판 기능 구현
 
-* 일정 시간 눈이 감겨있으면 경보음 재생
   <br>
 
   <br>
   
-  
-### Block diagram
-
-
-<img src="https://user-images.githubusercontent.com/75367132/214056920-bb085685-5444-45dd-a3cb-2abc99d5823b.PNG" width="80%" height="50%">
-
-
-<br>
 
 ## About Project
 
-### 얼굴 검출, 눈 검출
+### 웹 서버
 
 <img src="https://img.shields.io/badge/Language-Python-green?style=flat"/><img src="https://img.shields.io/badge/Library-Opencv-blue?style=flat"/>
 
