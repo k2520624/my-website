@@ -5,7 +5,7 @@
 ### Summary
 
 
-* python/django로 웹 구현
+* **python/django** 웹 구현
 
 * 로그인, 회원가입, 게시판 기능 구현
 
@@ -24,14 +24,14 @@
 
 * [djangoproject.com](https://www.djangoproject.com/) 사이트를 인용
 
-* 메인 홈페이지에서 로그인, 회원가입,게시판 버튼을 누르면 페이지 이동
+* 메인 홈페이지에서 로그인, 회원가입, 게시판 버튼을 눌러서 페이지 이동
 
 <br>
 
 ### Sign up page
 
 
-<img src="https://user-images.githubusercontent.com/75367132/216763002-16698390-46e0-4c92-aeb5-fa6b8899d775.PNG" width="400" height="500"><img src="https://user-images.githubusercontent.com/75367132/216762909-75124389-f8ce-4432-b7f3-1e404647eaea.PNG" width="600" height="500">
+<img src="https://user-images.githubusercontent.com/75367132/216764226-aeb5cbf4-bb7e-489a-acc9-2dd28c7650bc.png" width="500" height="300"><img src="https://user-images.githubusercontent.com/75367132/216764225-19765978-4f07-4d41-87c1-dfab2ef80a6d.png" width="500" height="300">
 
 * 사용자명, 비밀번호를 입력 후 등록 버튼을 누르면 관리자 페이지에 저장됨 
 * 관리자 페이지에서 회원 계정 정보를 확인할 수 있고 비밀번호는 암호화되어 표시됨 
@@ -41,7 +41,7 @@
 ### Log in page
 
 
-<img src="https://user-images.githubusercontent.com/75367132/216762887-761c544f-b4e0-46dd-95a5-b3272e3015c8.PNG" width="700" height="500">
+<img src="https://user-images.githubusercontent.com/75367132/216764223-b0b30b50-6bb6-4647-ba47-8df53ad50753.png" width="700" height="500">
 
 * 관리자 계정에 저장된 계정으로만 로그인이 가능
 
@@ -50,9 +50,10 @@
 ### Board page
 
 
-<img src="https://user-images.githubusercontent.com/75367132/216762904-0d9ae7cd-e829-4d9a-8425-c920e6830599.PNG" width="500" height="500"><img src="https://user-images.githubusercontent.com/75367132/216762906-36439a5e-c55e-4878-bbbf-c5887d2b32ed.PNG" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/75367132/216764222-290359f7-b3ac-472a-80e2-79c3a044ef82.png" width="500" height="300"><img src="https://user-images.githubusercontent.com/75367132/216764221-bf90937a-0c85-4713-9a25-e9d7fc5bf509.png" width="500" height="300">
 
-* 관리자 계정에 저장된 계정으로만 로그인이 가능
+* 글쓰기 버튼을 눌러 제목, 내용을 입력하면 등록 일시와 작성자 아이디가 표시된 상태로 저장됨
+
 
 <br>
 
