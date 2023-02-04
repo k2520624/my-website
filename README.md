@@ -18,11 +18,11 @@
 
 ### Web
 
-<img src="https://img.shields.io/badge/Language-Python-green?style=flat"/><img src="https://img.shields.io/badge/framework-Django-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Language-Python-green?style=flat"/><img src="https://img.shields.io/badge/Framework-Django-blue?style=flat"/>
 
-* opencv dnn 모듈을 이옹해 이미 학습된 모델 파일로 얼굴 검출
+* 
 
-* opencv의 haar cascade 알고리즘을 이용해서 눈 검출
+* 
 
 
   <br>
