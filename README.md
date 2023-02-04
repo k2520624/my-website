@@ -16,13 +16,25 @@
 
 ## About Project
 
-### Web
 
-<img src="https://img.shields.io/badge/Language-Python-green?style=flat"/><img src="https://img.shields.io/badge/Framework-Django-blue?style=flat"/>
+### main page
 
-* 
 
-* 
+<img src="https://user-images.githubusercontent.com/75367132/216762056-894ef26f-5442-444b-b4dd-d9b8b338fec7.PNG" width="50%" height="50%">
+
+* [djangoproject.com](https://www.djangoproject.com/) 사이트를 인용
+
+* 메인 홈페이지에서 로그인, 회원가입,게시판 버튼을 누르면 페이지 이동
+
+
+### Login page
+
+
+<img src="https://user-images.githubusercontent.com/75367132/216762056-894ef26f-5442-444b-b4dd-d9b8b338fec7.PNG" width="50%" height="50%">
+
+* [djangoproject.com](https://www.djangoproject.com/) 사이트를 인용
+
+* 메인 홈페이지에서 로그인, 회원가입,게시판 버튼을 누르면 페이지 이동 
 
 
   <br>
