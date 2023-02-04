@@ -27,7 +27,7 @@
 * 메인 홈페이지에서 로그인, 회원가입,게시판 버튼을 누르면 페이지 이동
 
 
-### Login page
+### Sign up page
 
 
 <img src="https://user-images.githubusercontent.com/75367132/216762056-894ef26f-5442-444b-b4dd-d9b8b338fec7.PNG" width="50%" height="50%">
